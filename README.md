@@ -1,5 +1,4 @@
-##Basic calculator
-####Basic calculator created using html, css, and javascript.
+Basic calculator created using html, css, and javascript.
 
 ```
 calculator = {
